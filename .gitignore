@@ -1,12 +1,43 @@
-build/
 node_modules/
+# Prerequisites
+*.d
+
+#symbol files
+obj/
+*.iobj
+*.ipdb
+*.pdb
+*.gypi
+
 Debug/
-Release/
+
+# Compiled Object files
+*.slo
+*.sln
+*.vcxproj*
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+
+
+
+
+
 *.lock
 *.log
 package-lock.json
 npm-debug.log*
 
 .idea/
-.vscode/
 .DS_Store

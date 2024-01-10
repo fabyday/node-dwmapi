@@ -7,11 +7,21 @@ nodejs DWM wrapper library.
 
 
 
+# Install 
 
-Implemented features
+```
+npm install 
+
+```
 
 
-DWMAPI
+
+
+
+# Implemented features
+
+
+#### DWMAPI
 DwmSetWindowAttribute(
     HWND hwnd,
     DWORD dwAttribute,

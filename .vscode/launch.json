@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+        "type": "cppvsdbg",
+        "request": "launch",
+        "name": "Addon Debug",
+        "program": "node",
+        "args": ["${workspaceFolder}\\src\\dwmapi\\test.js"]
+    }]
+  }
