@@ -10,7 +10,7 @@ nodejs DWM wrapper library.
 # Install 
 
 ```
-npm install 
+>>> npm install node-dwmapi
 
 ```
 

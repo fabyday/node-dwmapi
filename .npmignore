@@ -1,0 +1,40 @@
+**/obj/
+.vscode/
+.github/
+src/test.js 
+src/dwmapi/*.cc
+src/dwmapi/*.gyp
+# Prerequisites
+*.d
+
+#symbol files
+obj/
+*.iobj
+*.ipdb
+*.pdb
+*.gypi
+
+Debug/
+
+# Compiled Object files
+*.slo
+*.sln
+*.vcxproj*
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+
+
+package-lock.json 
+node_modules/
