@@ -1,6 +1,6 @@
 {
   "name": "node-dwmapi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description" : "window dwmapi library wrapper.",
   "author": "fabyday",
   "license": "MIT",
